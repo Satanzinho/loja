@@ -1,0 +1,205 @@
+@import "https://use.fontawesome.com/releases/v5.5.0/css/all.css";
+body{
+	margin:0;
+	padding:0;
+	background-color:#060504;
+}
+.meu-container{
+	width:980px;
+	margin:auto;
+}
+.header{
+	display: flex;
+    align-items: center;
+    justify-content: space-between;
+	width:100%;
+	height:170px;
+	margin:auto;
+}
+.areaLogo{
+    text-align: center;
+    font-size:35px;
+    font-weight: 500;
+    color:#d2b168;
+}
+.areaCarinho-Cadastro a{
+   text-decoration: none;
+}
+.areaInput input{
+	 /*Lembre da sombra no input.*/	
+	border: none;
+	height:36px;
+	width:226px;
+	padding:20px;
+}
+.carrinho{
+	width:260px;
+	height:28px; 
+	text-align: center;
+    font-family:"PT Sans Narrow", sans-serif;
+   	font-size:12px;
+    font-weight: 400;
+    line-height:28px;
+    color:#000;
+    background-color:#f1c40f;
+}
+.carrinho:hover{
+	background-color:#c29e0d;
+}
+.login{
+	display:flex;
+	justify-content:center;
+	width:260px;
+	margin-top:5px;
+}
+.login ul{
+	padding:0;
+	margin:0;
+}
+.login li{
+	float:left;
+	list-style:none;
+	font-size:11px;
+	padding-left:5px;
+	padding-right:5px;
+}
+.login a{
+	color:#fff;
+}
+.login a:hover{
+	text-decoration:underline;
+}
+.menu{
+	width:100%;
+	height:136px;
+	background-color:rgba(252, 242, 179, 0.9);
+	border-radius: 5px;
+	box-shadow:0px 0px 12px #fff;
+	margin:auto;
+}
+.menu ul{
+	display:flex;
+	justify-content:space-around;
+	flex-wrap: wrap;
+	margin:0;
+	padding:0;
+	list-style: none;
+	margin-bottom:10px;
+}
+.menu li{
+	display: block;
+    padding: 11px 10px;
+    font-size:12.5px;
+    margin-top:3px;
+    font-family: "PT Sans Narrow", sans-serif;
+}
+.menu a{
+	color:#000;
+	text-decoration: none;
+}
+.menu a:hover{
+	color:#ff9c07;
+}
+.produtos-destaque{
+	width:100%;
+	height:50px;
+	background-color:#fff;
+	margin:auto;
+	font-size:20px;
+	font-weight:bold;
+	line-height: 50px;
+	text-align: center;
+}
+.areaCodigo{
+	width:400px;
+	margin:auto;
+}
+.login-cadastro{
+	margin-top:50px;
+	color:#fff;
+	padding-bottom:50px;
+	border-bottom:1px dashed #fff;
+}
+.px500{
+	height:500px;
+}
+.area-produtos{
+	display:flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	width:100%;
+	height:auto;
+	margin:auto;
+	margin-top:50px;
+	padding-bottom:50px;
+	border-bottom:1px dashed #fff;
+}
+.produto-item{
+	width:185px;
+	margin-bottom:20px;
+}
+.nome-preco{
+	font-size:14px;
+	color:#fff;
+	text-align:center;
+	margin-bottom:10px;
+}
+.sem-juros{
+	color:#fff;
+	text-align:center;	
+	font-size:11px;
+}
+.area-info{
+	width:50%;
+	float:left;
+	font-size:15px;
+}
+footer{
+	width:100%;
+	height:100px;
+	margin-top:100px;
+}
+.areacartoes{
+	width:250px;
+	float:left;
+	margin-right:50px;
+}
+.px250{
+	width:250px;
+	margin-right:50px;
+	float:left;
+}
+.pagamento{
+	display:flex;
+	justify-content: space-around;
+	flex-wrap:wrap;
+	width:100%;
+}
+.envio{
+	width:100%;
+}
+.envio img{
+	width:42px;
+	height:27px;
+	margin-left:5px;
+}
+.areanav{
+	padding-bottom:20px;
+	border-bottom:1px dashed #fff;
+}
+.areanav ul{
+	padding:0;
+	margin:0;
+	list-style: none;
+}
+.areanav a{
+	color:#fff;
+	font-size:12px;
+}
+.copyright{
+	height:50px;
+	text-align: center;
+	line-height: 50px;
+	color:#fff;
+	font-size:11px;
+}

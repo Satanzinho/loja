@@ -1,0 +1,583 @@
+
+15/05/2019 22:30:10 PagSeguro.Session[info]: Begin
+15/05/2019 22:30:11 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 22:30:13 PagSeguro.Session[info]: Session ID: 669b50d3c7d4498993cae6c986f595c5
+15/05/2019 22:32:01 PagSeguro.Session[info]: Begin
+15/05/2019 22:32:02 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 22:32:02 PagSeguro.Session[info]: Session ID: 502ff9b059404d91a9c3d688ce86213d
+15/05/2019 22:33:13 PagSeguro.Session[info]: Begin
+15/05/2019 22:33:13 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 22:33:14 PagSeguro.Session[info]: Session ID: ac95095e726241e3ab6da556c381bf2c
+15/05/2019 22:34:06 PagSeguro.Session[info]: Begin
+15/05/2019 22:34:06 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 22:34:06 PagSeguro.Session[info]: Session ID: fb613f645d1f4aedb0dc1a4e40793078
+15/05/2019 22:35:47 PagSeguro.Session[info]: Begin
+15/05/2019 22:35:47 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 22:35:48 PagSeguro.Session[info]: Session ID: 201d2428583a4cfd880da8af3efe50ff
+15/05/2019 22:37:42 PagSeguro.Session[info]: Begin
+15/05/2019 22:37:43 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 22:37:43 PagSeguro.Session[info]: Session ID: 2a4d917af2824922820cb842b16aed04
+15/05/2019 22:37:51 PagSeguro.Session[info]: Begin
+15/05/2019 22:37:51 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 22:37:52 PagSeguro.Session[info]: Session ID: 2351c52251c34cbcb89cf52533d9d38d
+15/05/2019 22:39:30 PagSeguro.Session[info]: Begin
+15/05/2019 22:39:30 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 22:39:31 PagSeguro.Session[info]: Session ID: 85e13fdeb5e349738af93508a56f0b68
+15/05/2019 22:41:25 PagSeguro.Session[info]: Begin
+15/05/2019 22:41:25 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 22:41:26 PagSeguro.Session[info]: Session ID: 0e1d7d6765e247bb9b7a8e14d09ddca0
+15/05/2019 22:41:44 PagSeguro.Session[info]: Begin
+15/05/2019 22:41:44 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 22:41:45 PagSeguro.Session[info]: Session ID: cdaf9863cd2c4f809e20908e3391c565
+15/05/2019 22:41:49 PagSeguro.Session[info]: Begin
+15/05/2019 22:41:49 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 22:41:50 PagSeguro.Session[info]: Session ID: f91d33f183344d79999631d0d2ce07e3
+15/05/2019 22:42:04 PagSeguro.Session[info]: Begin
+15/05/2019 22:42:04 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 22:42:05 PagSeguro.Session[info]: Session ID: ad19a827d5674126b96b096fd4ca85b2
+15/05/2019 22:42:12 PagSeguro.Session[info]: Begin
+15/05/2019 22:42:12 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 22:42:12 PagSeguro.Session[info]: Session ID: 6c715f77186848d7ae78f275a5b42d88
+15/05/2019 22:42:25 PagSeguro.Session[info]: Begin
+15/05/2019 22:42:25 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 22:42:25 PagSeguro.Session[info]: Session ID: 24272eee6468467489fed0ca015c7b52
+15/05/2019 22:42:31 PagSeguro.Session[info]: Begin
+15/05/2019 22:42:31 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 22:42:32 PagSeguro.Session[info]: Session ID: 8fcd607d2d29485f91c8952856505caf
+15/05/2019 22:42:59 PagSeguro.Session[info]: Begin
+15/05/2019 22:42:59 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 22:43:00 PagSeguro.Session[info]: Session ID: a6ddf3df489c485ab4778954e88a0956
+15/05/2019 23:06:01 PagSeguro.Session[info]: Begin
+15/05/2019 23:06:02 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 23:06:03 PagSeguro.Session[info]: Session ID: 76992e78d6aa49f6951e486338ef9760
+15/05/2019 23:06:08 PagSeguro.Session[info]: Begin
+15/05/2019 23:06:09 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 23:06:09 PagSeguro.Session[info]: Session ID: d55b9ce445a643d6b8821479dca03bcf
+15/05/2019 23:24:07 PagSeguro.Session[info]: Begin
+15/05/2019 23:24:07 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 23:24:08 PagSeguro.Session[info]: Session ID: 29bdbb7137da41a1a63bd04b1a055ddd
+15/05/2019 23:24:27 PagSeguro.Session[info]: Begin
+15/05/2019 23:24:27 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 23:24:28 PagSeguro.Session[info]: Session ID: 6b6df560324d423e936b362907d03281
+15/05/2019 23:25:56 PagSeguro.Session[info]: Begin
+15/05/2019 23:25:56 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 23:25:58 PagSeguro.Session[info]: Session ID: ca95b92902b74d418db8c61e25b5eea4
+15/05/2019 23:25:59 PagSeguro.Session[info]: Begin
+15/05/2019 23:25:59 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 23:26:00 PagSeguro.Session[info]: Session ID: 36036ed3f34a48a09c2d8d5d12803ac1
+15/05/2019 23:26:21 PagSeguro.Session[info]: Begin
+15/05/2019 23:26:21 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 23:26:22 PagSeguro.Session[info]: Session ID: f3b59643bfb547d39de5fe1c73b3e9a0
+15/05/2019 23:30:11 PagSeguro.Session[info]: Begin
+15/05/2019 23:30:12 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 23:30:12 PagSeguro.Session[info]: Session ID: f4a11b233232475b8da877cee1c4e32e
+15/05/2019 23:30:49 PagSeguro.Session[info]: Begin
+15/05/2019 23:30:49 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 23:30:49 PagSeguro.Session[info]: Session ID: 4ef311e8fae34c559809b2ca3d3f7de0
+15/05/2019 23:31:13 PagSeguro.Session[info]: Begin
+15/05/2019 23:31:13 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 23:31:13 PagSeguro.Session[info]: Session ID: 5c6db9d729ea4dcb8f1ea4d88d94582c
+15/05/2019 23:31:15 PagSeguro.Session[info]: Begin
+15/05/2019 23:31:15 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 23:31:15 PagSeguro.Session[info]: Session ID: a76bfd23d54d4905a9f81683a7b5f96d
+15/05/2019 23:33:54 PagSeguro.Session[info]: Begin
+15/05/2019 23:33:54 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 23:33:54 PagSeguro.Session[info]: Session ID: 4ef1982b62a24b62a0c31ef3b28367d4
+15/05/2019 23:34:28 PagSeguro.Session[info]: Begin
+15/05/2019 23:34:28 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 23:34:29 PagSeguro.Session[info]: Session ID: a00146c0283e46cf8854d40a5a403bb8
+15/05/2019 23:34:40 PagSeguro.Session[info]: Begin
+15/05/2019 23:34:40 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 23:34:41 PagSeguro.Session[info]: Session ID: a3fb295a87ce4fd995cdd6aec00429c5
+15/05/2019 23:34:45 PagSeguro.Session[info]: Begin
+15/05/2019 23:34:46 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 23:34:46 PagSeguro.Session[info]: Session ID: 8cd1c902ad1a4dbebe3f8dbbc4db49da
+15/05/2019 23:36:30 PagSeguro.Session[info]: Begin
+15/05/2019 23:36:31 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 23:36:31 PagSeguro.Session[info]: Session ID: 4e09f94708c1462ba48864b4efe814f2
+15/05/2019 23:36:38 PagSeguro.Session[info]: Begin
+15/05/2019 23:36:38 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 23:36:38 PagSeguro.Session[info]: Session ID: f3bb3437069f4263a92e88d97c4de2b0
+15/05/2019 23:41:41 PagSeguro.Session[info]: Begin
+15/05/2019 23:41:41 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 23:41:42 PagSeguro.Session[info]: Session ID: 472fbe42d5d5416a92423a949a6abad5
+15/05/2019 23:42:36 PagSeguro.Session[info]: Begin
+15/05/2019 23:42:36 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 23:42:36 PagSeguro.Session[info]: Session ID: ab618fcd17cf4a6c909f5fc693187285
+15/05/2019 23:42:41 PagSeguro.Session[info]: Begin
+15/05/2019 23:42:42 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 23:42:42 PagSeguro.Session[info]: Session ID: 10cdac87f57845bdb4dd4fdf492b18d4
+15/05/2019 23:46:11 PagSeguro.Session[info]: Begin
+15/05/2019 23:46:12 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 23:46:13 PagSeguro.Session[info]: Session ID: c52b604e6de94f94bca430777c77d57f
+15/05/2019 23:46:57 PagSeguro.Session[info]: Begin
+15/05/2019 23:46:57 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 23:46:58 PagSeguro.Session[info]: Session ID: 8f19a43a487145b7b6014cd894c51fd3
+15/05/2019 23:47:18 PagSeguro.Session[info]: Begin
+15/05/2019 23:47:18 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 23:47:19 PagSeguro.Session[info]: Session ID: f11b1b0932fc4a99a6cd536267b8cd03
+15/05/2019 23:50:40 PagSeguro.Session[info]: Begin
+15/05/2019 23:50:40 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 23:50:40 PagSeguro.Session[info]: Session ID: 93cdfbe5965b4e25af2cc7fd22a1aab9
+15/05/2019 23:51:19 PagSeguro.Session[info]: Begin
+15/05/2019 23:51:20 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 23:51:20 PagSeguro.Session[info]: Session ID: fb3def1c5f9e4608a338e853917a37dc
+15/05/2019 23:53:02 PagSeguro.Session[info]: Begin
+15/05/2019 23:53:02 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 23:53:03 PagSeguro.Session[info]: Session ID: 318bd43d7bd747e589fc0e9c36edc962
+15/05/2019 23:53:20 PagSeguro.Session[info]: Begin
+15/05/2019 23:53:20 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 23:53:21 PagSeguro.Session[info]: Session ID: 81274bcbaa924746b727c3bddedb888d
+15/05/2019 23:54:23 PagSeguro.Session[info]: Begin
+15/05/2019 23:54:23 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 23:54:23 PagSeguro.Session[info]: Session ID: bd1fb0e9848649558fcb95bf8506a34d
+15/05/2019 23:58:40 PagSeguro.Session[info]: Begin
+15/05/2019 23:58:40 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+15/05/2019 23:58:41 PagSeguro.Session[info]: Session ID: 2df19a8ece17440e88723676f2f32bf5
+16/05/2019 00:03:18 PagSeguro.Session[info]: Begin
+16/05/2019 00:03:18 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 00:03:19 PagSeguro.Session[info]: Session ID: 5275d86bc3cf44bf9e471f6bfd700a42
+16/05/2019 00:03:43 PagSeguro.Session[info]: Begin
+16/05/2019 00:03:43 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 00:03:43 PagSeguro.Session[info]: Session ID: 0917987017784e56aa06b20df2a49b98
+16/05/2019 00:04:39 PagSeguro.Session[info]: Begin
+16/05/2019 00:04:40 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 00:04:40 PagSeguro.Session[info]: Session ID: 2623301a84e74547912e8b8dbac73d7f
+16/05/2019 00:35:14 PagSeguro.Session[info]: Begin
+16/05/2019 00:35:15 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 00:35:15 PagSeguro.Session[info]: Session ID: 2a99024c45dd4f0d9f8ecda586c255bf
+16/05/2019 00:35:34 PagSeguro.Session[info]: Begin
+16/05/2019 00:35:34 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 00:35:35 PagSeguro.Session[info]: Session ID: 19999d714be3400696f9b1f10a093103
+16/05/2019 00:35:45 PagSeguro.Session[info]: Begin
+16/05/2019 00:35:45 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 00:35:45 PagSeguro.Session[info]: Session ID: 74ff7bdc47b943f6b32ee32767fba515
+16/05/2019 01:48:35 PagSeguro.Session[info]: Begin
+16/05/2019 01:48:36 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 01:48:36 PagSeguro.Session[info]: Session ID: cd6f241c54a04682864235a1eca3537e
+16/05/2019 01:48:56 PagSeguro.Session[info]: Begin
+16/05/2019 01:48:56 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 01:48:57 PagSeguro.Session[info]: Session ID: d48917ab140d4539a7954cd1e0ef9bfb
+16/05/2019 01:50:00 PagSeguro.Session[info]: Begin
+16/05/2019 01:50:00 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 01:50:01 PagSeguro.Session[info]: Session ID: f5fd77e3a4ea4d9b98c0111224845441
+16/05/2019 01:50:45 PagSeguro.Session[info]: Begin
+16/05/2019 01:50:45 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 01:50:46 PagSeguro.Session[info]: Session ID: b1a30c99d9bc44429a907fd8d9c46bad
+16/05/2019 01:51:04 PagSeguro.Session[info]: Begin
+16/05/2019 01:51:04 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 01:51:05 PagSeguro.Session[info]: Session ID: 641fc67db3164c5eb27b1dbed0cace93
+16/05/2019 01:51:44 PagSeguro.Session[info]: Begin
+16/05/2019 01:51:44 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 01:51:44 PagSeguro.Session[info]: Session ID: d44782d982654695b856f6526026a491
+16/05/2019 01:53:11 PagSeguro.Session[info]: Begin
+16/05/2019 01:53:11 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 01:53:12 PagSeguro.Session[info]: Session ID: 6ac1c705991e4000a5a7d4e6f18f483e
+16/05/2019 01:53:24 PagSeguro.Session[info]: Begin
+16/05/2019 01:53:24 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 01:53:24 PagSeguro.Session[info]: Session ID: d3556054e1e24a2ea6f94175f7e299d9
+16/05/2019 01:54:31 PagSeguro.Session[info]: Begin
+16/05/2019 01:54:31 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 01:54:31 PagSeguro.Session[info]: Session ID: ddb9bf16d2d24041a638ec49e641db22
+16/05/2019 01:58:19 PagSeguro.Session[info]: Begin
+16/05/2019 01:58:19 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 01:58:20 PagSeguro.Session[info]: Session ID: c4b753f73ce9419886320052aba65b70
+16/05/2019 02:01:10 PagSeguro.Session[info]: Begin
+16/05/2019 02:01:11 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 02:01:11 PagSeguro.Session[info]: Session ID: 9b8164614532477d9e4e8dda907f278e
+16/05/2019 02:03:18 PagSeguro.Session[info]: Begin
+16/05/2019 02:03:19 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 02:03:19 PagSeguro.Session[info]: Session ID: 75576031f4a54c89bdae46e4926f03bb
+16/05/2019 02:07:29 PagSeguro.Session[info]: Begin
+16/05/2019 02:07:29 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 02:07:30 PagSeguro.Session[info]: Session ID: b4f58cb3468e4c9a89d5675676ab8758
+16/05/2019 02:09:30 PagSeguro.Session[info]: Begin
+16/05/2019 02:09:30 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 02:09:31 PagSeguro.Session[info]: Session ID: df31e19b9e5e431f867c81c36f142b75
+16/05/2019 02:10:19 PagSeguro.Session[info]: Begin
+16/05/2019 02:10:19 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 02:10:20 PagSeguro.Session[info]: Session ID: 27cfae515ec44d9c814ff4c646f00b24
+16/05/2019 02:10:31 PagSeguro.Session[info]: Begin
+16/05/2019 02:10:31 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 02:10:31 PagSeguro.Session[info]: Session ID: 8f4badd96b2c49eaab99ed49ffe43d71
+16/05/2019 02:10:51 PagSeguro.Session[info]: Begin
+16/05/2019 02:10:52 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 02:10:52 PagSeguro.Session[info]: Session ID: 60cf2990eca7481f8da5aeba7da44457
+16/05/2019 02:11:04 PagSeguro.Session[info]: Begin
+16/05/2019 02:11:05 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 02:11:05 PagSeguro.Session[info]: Session ID: 752d840bfea5479ba35bc6682a53e5e3
+16/05/2019 02:12:30 PagSeguro.Session[info]: Begin
+16/05/2019 02:12:30 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 02:12:31 PagSeguro.Session[info]: Session ID: 1bf72160e9894ec7a48a36c1fc6a453f
+16/05/2019 02:14:23 PagSeguro.Session[info]: Begin
+16/05/2019 02:14:23 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 02:14:24 PagSeguro.Session[info]: Session ID: 88f552006b064ac48213ded89a0cf4bd
+16/05/2019 02:15:39 PagSeguro.Session[info]: Begin
+16/05/2019 02:15:39 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 02:15:40 PagSeguro.Session[info]: Session ID: 14b1f7e2e7d94e9ca0687eebd13ae86e
+16/05/2019 02:18:06 PagSeguro.Session[info]: Begin
+16/05/2019 02:18:06 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 02:18:07 PagSeguro.Session[info]: Session ID: 575f1ab943c541e18283bb21fcdc5162
+16/05/2019 02:18:59 PagSeguro.Session[info]: Begin
+16/05/2019 02:18:59 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 02:18:59 PagSeguro.Session[info]: Session ID: 9657444e8ecc4ec8ba48bd11f1e25b1b
+16/05/2019 02:20:59 PagSeguro.Session[info]: Begin
+16/05/2019 02:20:59 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 02:21:00 PagSeguro.Session[info]: Session ID: 0dfd346c717343d7884243410fb5bfa4
+16/05/2019 04:52:50 PagSeguro.Session[info]: Begin
+16/05/2019 04:52:51 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 04:52:52 PagSeguro.Session[info]: Session ID: 4a9db4e279494f9daecc7ba171503ee0
+16/05/2019 04:54:25 PagSeguro.Session[info]: Begin
+16/05/2019 04:54:26 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 04:54:26 PagSeguro.Session[info]: Session ID: 966dc4cceb8e4d91ab763d1cde027479
+16/05/2019 04:57:01 PagSeguro.Session[info]: Begin
+16/05/2019 04:57:01 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 04:57:02 PagSeguro.Session[info]: Session ID: 612dd9f451e04cb78d5a7baf076d208f
+16/05/2019 04:57:21 PagSeguro.Session[info]: Begin
+16/05/2019 04:57:21 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 04:57:21 PagSeguro.Session[info]: Session ID: 681df3b13adc4b93b3d69f6335b4f2a1
+16/05/2019 04:58:33 PagSeguro.Session[info]: Begin
+16/05/2019 04:58:34 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 04:58:34 PagSeguro.Session[info]: Session ID: 8e01edae801941a48bf576193cad836e
+16/05/2019 05:03:03 PagSeguro.Session[info]: Begin
+16/05/2019 05:03:03 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 05:03:04 PagSeguro.Session[info]: Session ID: bbc748336df5499191f3ba60691b10ff
+16/05/2019 05:03:44 PagSeguro.Session[info]: Begin
+16/05/2019 05:03:44 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 05:03:45 PagSeguro.Session[info]: Session ID: 6d85a215fd4546398e5665210836ac83
+16/05/2019 05:04:15 PagSeguro.Session[info]: Begin
+16/05/2019 05:04:15 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 05:04:16 PagSeguro.Session[info]: Session ID: 1dd9edf1901a4a1386f4a51f3b6b6746
+16/05/2019 05:06:37 PagSeguro.Session[info]: Begin
+16/05/2019 05:06:37 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 05:06:37 PagSeguro.Session[info]: Session ID: e777551df20d43eb9f21bc5ee2bb96fd
+16/05/2019 05:06:38 PagSeguro.Session[info]: Begin
+16/05/2019 05:06:38 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 05:06:39 PagSeguro.Session[info]: Session ID: b705bd1e0d234491a1021f44611bfb7c
+16/05/2019 05:08:32 PagSeguro.Session[info]: Begin
+16/05/2019 05:08:32 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 05:08:33 PagSeguro.Session[info]: Session ID: bdada2358a0748638401275ece9f05f5
+16/05/2019 05:12:11 PagSeguro.Session[info]: Begin
+16/05/2019 05:12:12 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 05:12:12 PagSeguro.Session[info]: Session ID: 886ba5f9b3bc487fa4a9001e6df2fcd4
+16/05/2019 05:15:08 PagSeguro.Session[info]: Begin
+16/05/2019 05:15:09 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 05:15:09 PagSeguro.Session[info]: Session ID: f973850a18ba4355b47e44a082e25bf0
+16/05/2019 05:15:44 PagSeguro.Session[info]: Begin
+16/05/2019 05:15:44 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 05:15:45 PagSeguro.Session[info]: Session ID: cf1ffd18763241de84fc56c8d5aea38c
+16/05/2019 05:17:42 PagSeguro.Session[info]: Begin
+16/05/2019 05:17:42 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 05:17:43 PagSeguro.Session[info]: Session ID: 376f9f082a0e45308621585529f015cb
+16/05/2019 05:18:18 PagSeguro.Session[info]: Begin
+16/05/2019 05:18:18 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 05:18:18 PagSeguro.Session[info]: Session ID: f651f38d51f640ceb70a2abf8a9b1771
+16/05/2019 05:18:39 PagSeguro.Session[info]: Begin
+16/05/2019 05:18:39 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 05:18:39 PagSeguro.Session[info]: Session ID: 72e90dd81eed4eb58a59d3495442f12a
+16/05/2019 05:23:46 PagSeguro.Session[info]: Begin
+16/05/2019 05:23:46 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 05:23:47 PagSeguro.Session[info]: Session ID: 55c53a7ee56f44dab97764b61d86e064
+16/05/2019 05:25:44 PagSeguro.Session[info]: Begin
+16/05/2019 05:25:44 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 05:25:44 PagSeguro.Session[info]: Session ID: 9a9174f8a4654bb384fa25f98fb109d3
+16/05/2019 05:27:10 PagSeguro.Session[info]: Begin
+16/05/2019 05:27:11 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 05:27:11 PagSeguro.Session[info]: Session ID: 0435633041264c7980b9cfdd00cdd23a
+16/05/2019 05:28:35 PagSeguro.Session[info]: Begin
+16/05/2019 05:28:36 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 05:28:36 PagSeguro.Session[info]: Session ID: 28979322e2fd400198b91a011e9f8fb6
+16/05/2019 05:35:56 PagSeguro.Session[info]: Begin
+16/05/2019 05:35:56 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 05:35:56 PagSeguro.Session[info]: Session ID: 2fe3583f1a60407eb8f1f6c74031ff60
+16/05/2019 05:36:13 PagSeguro.Session[info]: Begin
+16/05/2019 05:36:13 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 05:36:14 PagSeguro.Session[info]: Session ID: 05b952689cbc4834ac78a6a3ebedf792
+16/05/2019 16:38:19 PagSeguro.Session[info]: Begin
+16/05/2019 16:38:20 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 16:38:23 PagSeguro.Session[info]: Session ID: 77bda217cccc4b0a8179a1c521908343
+16/05/2019 16:38:38 PagSeguro.Session[info]: Begin
+16/05/2019 16:38:38 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 16:38:39 PagSeguro.Session[info]: Session ID: 25597b54c16c483291e82253f86ac01a
+16/05/2019 16:42:34 PagSeguro.Session[info]: Begin
+16/05/2019 16:42:34 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 16:42:35 PagSeguro.Session[info]: Session ID: 95a7ab68da7e48a2b7cdf88d79b738ec
+16/05/2019 16:44:23 PagSeguro.Session[info]: Begin
+16/05/2019 16:44:23 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 16:44:24 PagSeguro.Session[info]: Session ID: 55cb7027851149aaae2ff1da91293389
+16/05/2019 16:52:43 PagSeguro.Session[info]: Begin
+16/05/2019 16:52:44 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 16:52:44 PagSeguro.Session[info]: Session ID: 9eb591abb552447986fed202f7cb5a03
+16/05/2019 16:55:11 PagSeguro.Session[info]: Begin
+16/05/2019 16:55:11 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 16:55:13 PagSeguro.Session[info]: Session ID: 8d03414a777a40238239e5ca2038c593
+16/05/2019 16:56:30 PagSeguro.Session[info]: Begin
+16/05/2019 16:56:30 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 16:56:31 PagSeguro.Session[info]: Session ID: 5a9b04d11a7241fe8640c01437205a5d
+16/05/2019 16:56:48 PagSeguro.Session[info]: Begin
+16/05/2019 16:56:48 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 16:56:49 PagSeguro.Session[info]: Session ID: 6c9b8f02a88743a7952e308063550783
+16/05/2019 16:59:16 PagSeguro.Session[info]: Begin
+16/05/2019 16:59:16 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 16:59:17 PagSeguro.Session[info]: Session ID: eb8b718d75e0434bb36bf5b1f8278682
+16/05/2019 16:59:50 PagSeguro.Session[info]: Begin
+16/05/2019 16:59:50 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 16:59:51 PagSeguro.Session[info]: Session ID: 0b05216261724efabd3f78aec2279a49
+16/05/2019 17:18:34 PagSeguro.Session[info]: Begin
+16/05/2019 17:18:34 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 17:18:35 PagSeguro.Session[info]: Session ID: 9c1d1171c7a644ccb15a97ab89a20b51
+16/05/2019 17:21:58 PagSeguro.Session[info]: Begin
+16/05/2019 17:21:58 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 17:21:59 PagSeguro.Session[info]: Session ID: 75f561aaf77d4989b27319e43cb9211e
+16/05/2019 17:22:52 PagSeguro.Session[info]: Begin
+16/05/2019 17:22:52 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 17:22:52 PagSeguro.Session[info]: Session ID: 578b4ddf80f9475190acfe4c36526f72
+16/05/2019 17:31:54 PagSeguro.Session[info]: Begin
+16/05/2019 17:31:54 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 17:31:54 PagSeguro.Session[info]: Session ID: 24dd0904fbdb4067b81bc54a3432f65e
+16/05/2019 17:32:20 PagSeguro.Session[info]: Begin
+16/05/2019 17:32:21 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 17:32:21 PagSeguro.Session[info]: Session ID: ce6bd1aefa964d17a2fec3c9438ae664
+16/05/2019 17:36:28 PagSeguro.Session[info]: Begin
+16/05/2019 17:36:28 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 17:36:30 PagSeguro.Session[info]: Session ID: 9e67a730acf84ba9b064fb649082757e
+16/05/2019 17:45:31 PagSeguro.Session[info]: Begin
+16/05/2019 17:45:31 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 17:45:32 PagSeguro.Session[info]: Session ID: e8e15e85b8f2494d96cd9f12a561bcc5
+16/05/2019 17:58:26 PagSeguro.Session[info]: Begin
+16/05/2019 17:58:26 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 17:58:27 PagSeguro.Session[info]: Session ID: 78f98a197a054e36a9cf771aac898ea4
+16/05/2019 18:03:27 PagSeguro.Session[info]: Begin
+16/05/2019 18:03:28 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 18:03:29 PagSeguro.Session[info]: Session ID: 6f8db12b8ecb4d3f8a827f888dede313
+16/05/2019 18:03:29 PagSeguro.Session[info]: Begin
+16/05/2019 18:03:30 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 18:03:30 PagSeguro.Session[info]: Session ID: ac832738b4de4bae8d88d4937aa5d7ff
+16/05/2019 18:04:07 PagSeguro.Session[info]: Begin
+16/05/2019 18:04:08 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 18:04:08 PagSeguro.Session[info]: Session ID: 669971cae64744fcbf1f9cc041af76fb
+16/05/2019 18:05:41 PagSeguro.Session[info]: Begin
+16/05/2019 18:05:41 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 18:05:42 PagSeguro.Session[info]: Session ID: 46a72dd44cd34aaa8baa7b8c832da2f1
+16/05/2019 18:13:04 PagSeguro.Session[info]: Begin
+16/05/2019 18:13:05 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 18:13:05 PagSeguro.Session[info]: Session ID: 367d71d260054aa289baf21046380bcf
+16/05/2019 18:17:20 PagSeguro.Session[info]: Begin
+16/05/2019 18:17:20 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 18:17:21 PagSeguro.Session[info]: Session ID: f2d75c0783d64c80898d4ab00f7714f6
+16/05/2019 18:21:41 PagSeguro.Session[info]: Begin
+16/05/2019 18:21:42 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 18:21:42 PagSeguro.Session[info]: Session ID: a82712575fb640519c0006a1887b4452
+16/05/2019 18:22:41 PagSeguro.Session[info]: Begin
+16/05/2019 18:22:41 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 18:22:42 PagSeguro.Session[info]: Session ID: cc9564a81e0b4b9bbce66e5d756b5e7c
+16/05/2019 18:40:13 PagSeguro.Session[info]: Begin
+16/05/2019 18:40:13 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 18:40:13 PagSeguro.Session[error]: CURL can't connect: Could not resolve host: ws.sandbox.pagseguro.uol.com.br
+16/05/2019 18:44:24 PagSeguro.Session[info]: Begin
+16/05/2019 18:44:25 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 18:44:25 PagSeguro.Session[error]: CURL can't connect: Could not resolve host: ws.sandbox.pagseguro.uol.com.br
+16/05/2019 18:45:48 PagSeguro.Session[info]: Begin
+16/05/2019 18:45:49 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 18:45:49 PagSeguro.Session[error]: CURL can't connect: Could not resolve host: ws.sandbox.pagseguro.uol.com.br
+16/05/2019 18:46:22 PagSeguro.Session[info]: Begin
+16/05/2019 18:46:23 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 18:46:23 PagSeguro.Session[error]: CURL can't connect: Could not resolve host: ws.sandbox.pagseguro.uol.com.br
+16/05/2019 18:48:28 PagSeguro.Session[info]: Begin
+16/05/2019 18:48:28 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 18:48:28 PagSeguro.Session[error]: CURL can't connect: Could not resolve host: ws.sandbox.pagseguro.uol.com.br
+16/05/2019 18:54:18 PagSeguro.Session[info]: Begin
+16/05/2019 18:54:18 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 18:54:19 PagSeguro.Session[error]: CURL can't connect: Could not resolve host: ws.sandbox.pagseguro.uol.com.br
+16/05/2019 18:56:49 PagSeguro.Session[info]: Begin
+16/05/2019 18:56:49 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 18:56:50 PagSeguro.Session[info]: Session ID: d12159918f54483d80f57d645dd1cc95
+16/05/2019 19:00:47 PagSeguro.Session[info]: Begin
+16/05/2019 19:00:47 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 19:00:48 PagSeguro.Session[info]: Session ID: 1c1740febda04a4cb71b35fd349e4b38
+16/05/2019 19:01:28 PagSeguro.Session[info]: Begin
+16/05/2019 19:01:28 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 19:01:29 PagSeguro.Session[info]: Session ID: ece7635da10344c8af540f23e605ade5
+16/05/2019 19:04:00 PagSeguro.Session[info]: Begin
+16/05/2019 19:04:00 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 19:04:01 PagSeguro.Session[info]: Session ID: 47c9b08a8ff243cd88494bd668e306ba
+16/05/2019 19:07:20 PagSeguro.Session[info]: Begin
+16/05/2019 19:07:21 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 19:07:21 PagSeguro.Session[info]: Session ID: dbb11115466b4d7c95964b8bbb4a9ed0
+16/05/2019 19:07:55 PagSeguro.Session[info]: Begin
+16/05/2019 19:07:55 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 19:07:55 PagSeguro.Session[info]: Session ID: a7517b649c4747fe98c6588db69d7d6d
+16/05/2019 19:09:00 PagSeguro.Session[info]: Begin
+16/05/2019 19:09:00 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 19:09:01 PagSeguro.Session[info]: Session ID: a1ad3bef203746e987c242776f01f6e5
+16/05/2019 19:10:46 PagSeguro.Session[info]: Begin
+16/05/2019 19:10:46 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 19:10:47 PagSeguro.Session[info]: Session ID: c6a90e0e48ea4a638fc30b72607de305
+16/05/2019 19:17:19 PagSeguro.Session[info]: Begin
+16/05/2019 19:17:19 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 19:17:20 PagSeguro.Session[info]: Session ID: 81397682db4d4793b07d8e10ed0ff8ac
+16/05/2019 19:22:12 PagSeguro.Session[info]: Begin
+16/05/2019 19:22:12 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 19:22:12 PagSeguro.Session[info]: Session ID: f69bf13a5c71474ea259b91f6a279275
+16/05/2019 19:22:56 PagSeguro.Session[info]: Begin
+16/05/2019 19:22:56 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 19:22:57 PagSeguro.Session[info]: Session ID: dfdb30587c494c258fb75ee7c351f7e1
+16/05/2019 19:25:12 PagSeguro.Session[info]: Begin
+16/05/2019 19:25:12 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 19:25:13 PagSeguro.Session[info]: Session ID: edb15d8af12a4c47af1f4ba9beeae93d
+16/05/2019 19:37:58 PagSeguro.Session[info]: Begin
+16/05/2019 19:37:59 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 19:37:59 PagSeguro.Session[info]: Session ID: d13be16536914c288e885bbab81ae6c3
+16/05/2019 19:41:38 PagSeguro.Session[info]: Begin
+16/05/2019 19:41:38 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 19:41:39 PagSeguro.Session[info]: Session ID: 29139a6bca4f4c55add1f3a827e8b7dc
+16/05/2019 19:53:23 PagSeguro.Session[info]: Begin
+16/05/2019 19:53:23 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 19:53:24 PagSeguro.Session[info]: Session ID: 7f473430c37f4db788813296a8cb93b3
+16/05/2019 19:55:42 PagSeguro.Session[info]: Begin
+16/05/2019 19:55:43 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 19:55:43 PagSeguro.Session[info]: Session ID: 08c5e23f5d28466a8d587ca9325bfa0a
+16/05/2019 19:58:38 PagSeguro.Session[info]: Begin
+16/05/2019 19:58:39 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 19:58:39 PagSeguro.Session[info]: Session ID: ee352c2f8d994437b579666e29b21777
+16/05/2019 19:58:54 PagSeguro.Session[info]: Begin
+16/05/2019 19:58:55 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 19:58:55 PagSeguro.Session[info]: Session ID: 4d0bbd3f9f0b4839abc77b4d10016707
+16/05/2019 20:00:43 PagSeguro.Session[info]: Begin
+16/05/2019 20:00:44 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 20:00:44 PagSeguro.Session[info]: Session ID: 3ca9491f82ae44a2852d91ec10bc1f05
+16/05/2019 20:03:50 PagSeguro.Session[info]: Begin
+16/05/2019 20:03:50 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 20:03:51 PagSeguro.Session[info]: Session ID: 729525e2cfe74a999621f8337bb2c48c
+16/05/2019 20:04:14 PagSeguro.Session[info]: Begin
+16/05/2019 20:04:14 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 20:04:15 PagSeguro.Session[info]: Session ID: e6e15472506d4a51ae77da42c660e456
+16/05/2019 20:09:27 PagSeguro.Session[info]: Begin
+16/05/2019 20:09:27 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 20:09:28 PagSeguro.Session[info]: Session ID: 331d070a35954e8898643a75dbf08de0
+16/05/2019 20:11:32 PagSeguro.Session[info]: Begin
+16/05/2019 20:11:33 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 20:11:33 PagSeguro.Session[info]: Session ID: 291977142a934c809347da098aaa0be3
+16/05/2019 20:13:51 PagSeguro.Session[info]: Begin
+16/05/2019 20:13:51 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 20:13:52 PagSeguro.Session[info]: Session ID: 0487cdbfa1ff484fa3dda8ea906cd08f
+16/05/2019 20:15:42 PagSeguro.Session[info]: Begin
+16/05/2019 20:15:42 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 20:15:43 PagSeguro.Session[info]: Session ID: bc0fb541272b43ae86d488a5852f615e
+16/05/2019 20:23:27 PagSeguro.Session[info]: Begin
+16/05/2019 20:23:28 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 20:23:28 PagSeguro.Session[info]: Session ID: 0e03d41be2d04c1ea88b7e7b4293b525
+16/05/2019 20:25:39 PagSeguro.Session[info]: Begin
+16/05/2019 20:25:39 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 20:25:40 PagSeguro.Session[info]: Session ID: 56f9da1e9b7a4b9fbad763a7c0de1d75
+16/05/2019 20:33:22 PagSeguro.Session[info]: Begin
+16/05/2019 20:33:22 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 20:33:23 PagSeguro.Session[info]: Session ID: b6dff6dbf010478091f8624793bf9863
+16/05/2019 20:35:20 PagSeguro.Session[info]: Begin
+16/05/2019 20:35:20 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 20:35:21 PagSeguro.Session[info]: Session ID: 8a6dfa978d3f490c81312990c1a21d5b
+16/05/2019 20:42:28 PagSeguro.Session[info]: Begin
+16/05/2019 20:42:28 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 20:42:29 PagSeguro.Session[info]: Session ID: 40cd8d9864364d728d055ef2d779ee83
+16/05/2019 20:42:38 PagSeguro.Session[info]: Begin
+16/05/2019 20:42:38 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 20:42:39 PagSeguro.Session[info]: Session ID: 3d99120e25034d6187533239c3ae9b77
+16/05/2019 20:42:57 PagSeguro.Session[info]: Begin
+16/05/2019 20:42:57 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 20:42:59 PagSeguro.Session[info]: Session ID: 4413124cc7354486840204c5219d72b8
+16/05/2019 20:44:47 PagSeguro.Session[info]: Begin
+16/05/2019 20:44:47 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 20:44:48 PagSeguro.Session[info]: Session ID: 6b77528ee03441429c30843de2230eab
+16/05/2019 20:45:46 PagSeguro.Session[info]: Begin
+16/05/2019 20:45:47 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 20:45:47 PagSeguro.Session[info]: Session ID: 6b476cdf1787486d8da3ebcc58763f64
+16/05/2019 20:46:56 PagSeguro.Session[info]: Begin
+16/05/2019 20:46:57 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 20:46:58 PagSeguro.Session[info]: Session ID: 465dedeedb5c4bdba0d9bd71413755ef
+16/05/2019 20:48:15 PagSeguro.Session[info]: Begin
+16/05/2019 20:48:15 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 20:48:16 PagSeguro.Session[info]: Session ID: 7aa3981b96d64138a6a7d2adee8f80ee
+16/05/2019 20:48:55 PagSeguro.Session[info]: Begin
+16/05/2019 20:48:55 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 20:48:56 PagSeguro.Session[info]: Session ID: d6ed0718a1174f8ba4acbbbe01b78635
+16/05/2019 20:56:25 PagSeguro.Session[info]: Begin
+16/05/2019 20:56:25 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 20:56:26 PagSeguro.Session[info]: Session ID: 75efdd3a525c4508a220b12d240db47f
+16/05/2019 20:57:11 PagSeguro.Session[info]: Begin
+16/05/2019 20:57:11 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 20:57:12 PagSeguro.Session[info]: Session ID: e6cb4acc31654e7f9cd6c75d5b1d0612
+16/05/2019 20:58:36 PagSeguro.Session[info]: Begin
+16/05/2019 20:58:37 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 20:58:37 PagSeguro.Session[info]: Session ID: 23c184f6a4b44908973bf47751983b69
+16/05/2019 21:02:36 PagSeguro.Session[info]: Begin
+16/05/2019 21:02:37 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 21:02:37 PagSeguro.Session[info]: Session ID: a8fb3e25ecfd4c8993d7c45004086cdd
+16/05/2019 21:02:37 PagSeguro.Session[info]: Begin
+16/05/2019 21:02:38 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 21:02:38 PagSeguro.Session[info]: Session ID: 81cb50026a9242f8a0e29f3bce631223
+16/05/2019 21:02:38 PagSeguro.Session[info]: Begin
+16/05/2019 21:02:39 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 21:02:39 PagSeguro.Session[info]: Session ID: d73fe7ebd57f41ea8ed3e458a75e9951
+16/05/2019 21:02:39 PagSeguro.Session[info]: Begin
+16/05/2019 21:02:39 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 21:02:40 PagSeguro.Session[info]: Session ID: 2ebf98373a314d3ab94641441c9025c3
+16/05/2019 21:02:40 PagSeguro.Session[info]: Begin
+16/05/2019 21:02:40 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 21:02:40 PagSeguro.Session[info]: Session ID: 6443c11162324db78cfcbb619fa0bb16
+16/05/2019 21:02:41 PagSeguro.Session[info]: Begin
+16/05/2019 21:02:41 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 21:02:41 PagSeguro.Session[info]: Session ID: 8313869fa72a4057881d46c10712a1d0
+16/05/2019 21:02:41 PagSeguro.Session[info]: Begin
+16/05/2019 21:02:42 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 21:02:42 PagSeguro.Session[info]: Session ID: b101c2a40f4f4b5c88dd811888496dbb
+16/05/2019 21:02:42 PagSeguro.Session[info]: Begin
+16/05/2019 21:02:42 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 21:02:43 PagSeguro.Session[info]: Session ID: 79618c2b4d274385885dae83dddc16fa
+16/05/2019 21:02:43 PagSeguro.Session[info]: Begin
+16/05/2019 21:02:43 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 21:02:43 PagSeguro.Session[info]: Session ID: 52e948d4b13d463ba5ba78140cf378ab
+16/05/2019 21:02:43 PagSeguro.Session[info]: Begin
+16/05/2019 21:02:44 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 21:02:44 PagSeguro.Session[info]: Session ID: a4af3fd3b0164bb7ae2cea519169a7dc
+16/05/2019 21:03:43 PagSeguro.Session[info]: Begin
+16/05/2019 21:03:43 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 21:03:44 PagSeguro.Session[info]: Session ID: 84cd3581f12f49dcbdfd86934b93145a
+16/05/2019 21:04:46 PagSeguro.Session[info]: Begin
+16/05/2019 21:04:46 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 21:04:47 PagSeguro.Session[info]: Session ID: e14f0110bb02443693090bc93822e306
+16/05/2019 21:18:43 PagSeguro.Session[info]: Begin
+16/05/2019 21:18:43 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 21:18:44 PagSeguro.Session[info]: Session ID: 4ee10ff5ece24d92aef47c598c374208
+16/05/2019 21:20:37 PagSeguro.Session[info]: Begin
+16/05/2019 21:20:38 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 21:20:38 PagSeguro.Session[info]: Session ID: c76d19aed05f40ba828fd22228862693
+16/05/2019 21:22:50 PagSeguro.Session[info]: Begin
+16/05/2019 21:22:51 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 21:22:51 PagSeguro.Session[info]: Session ID: 69c380a38f7c43bda7d0ce1106091e6e
+16/05/2019 21:23:12 PagSeguro.Session[info]: Begin
+16/05/2019 21:23:12 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 21:23:13 PagSeguro.Session[info]: Session ID: c0fbb65cb5b14773a522a101374ca925
+16/05/2019 21:24:08 PagSeguro.Session[info]: Begin
+16/05/2019 21:24:08 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 21:24:08 PagSeguro.Session[info]: Session ID: 11f3228d9ece4b8daf95cf60a89c239d
+16/05/2019 21:24:35 PagSeguro.Session[info]: Begin
+16/05/2019 21:24:36 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 21:24:36 PagSeguro.Session[info]: Session ID: 12e3ab064855436ea684f59bc074d9a5
+16/05/2019 21:26:55 PagSeguro.Session[info]: Begin
+16/05/2019 21:26:56 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 21:26:57 PagSeguro.Session[info]: Session ID: 66911117fa61495b9708e3be42cd200c
+16/05/2019 21:27:24 PagSeguro.Session[info]: Begin
+16/05/2019 21:27:24 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 21:27:25 PagSeguro.Session[info]: Session ID: 9571427143cb41228d65aa8598eca48f
+16/05/2019 21:27:33 PagSeguro.Session[info]: Begin
+16/05/2019 21:27:34 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 21:27:34 PagSeguro.Session[info]: Session ID: 426b85f8422f4c288bf0c4e84a5f204e
+16/05/2019 21:28:38 PagSeguro.Session[info]: Begin
+16/05/2019 21:28:38 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 21:28:38 PagSeguro.Session[info]: Session ID: 55772ead172a4ab3a99d6913b31211c7
+16/05/2019 21:29:16 PagSeguro.Session[info]: Begin
+16/05/2019 21:29:16 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 21:29:16 PagSeguro.Session[info]: Session ID: 293fa9837fa54abbaae17621b93ebafc
+16/05/2019 21:29:21 PagSeguro.Session[info]: Begin
+16/05/2019 21:29:21 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=mainaradantasdeoliveira%40gmail.com&token=C836A343F30D45E08736729BD72DB7D4
+16/05/2019 21:29:23 PagSeguro.Session[info]: Session ID: ec09c24df0544e7aa03c7b8832a1d0c3

@@ -1,0 +1,5 @@
+- fazer o funcionamento da busca
+- fazer o action no menu
+- terminar o design de todas as páginas
+- Entender como funciona os dados de cadastro
+- * fazer logo do site
