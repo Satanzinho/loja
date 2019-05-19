@@ -2,7 +2,6 @@
 session_start();
 require 'vendor/autoload.php';
 require 'config.php';
-
 spl_autoload_register(function ($class){
     if(file_exists('controllers/'.$class.'.php')) {
             require_once 'controllers/'.$class.'.php';
@@ -12,7 +11,6 @@ spl_autoload_register(function ($class){
             require_once 'core/'.$class.'.php';
     }
 });
-
 $core = new Core();
 $core->run();
 ?>

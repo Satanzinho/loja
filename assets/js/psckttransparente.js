@@ -87,7 +87,7 @@ $(function(){
 					var cvvLimit = r.brand.cvvSize;
 					$('input[name=cartao_cvv]').attr('maxLength', cvvLimit);
 					PagSeguroDirectPayment.getInstallments({
-						amount:400,
+						amount:parseFloat($('input[name=total]').val()),
 						brand:window.bandeira,
 						maxInstallmentNoInterest:10,
 						success:function(r){

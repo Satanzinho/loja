@@ -1,3 +1,4 @@
+<?php  ?>
 <!DOCTYPE html>
 <html>
 	<head>
@@ -7,7 +8,6 @@
 		<link rel="shortcut icon" type="image/png" href="<?php echo BASE_URL; ?>assets/images/coroa.png">
 		<link rel="stylesheet" type="text/css" href="<?php echo BASE_URL; ?>assets/css/bootstrap.min.css">
 		<link rel="stylesheet" type="text/css" href="<?php echo BASE_URL; ?>assets/css/style.css">
-
 		<script type="text/javascript" src="<?php echo BASE_URL; ?>assets/js/jquery.min.js"></script>
 	</head>
 	<body>
@@ -30,11 +30,10 @@
 			}else{
 				$dados['carrinho_quantidade'] = 0;
 			}
-			$c = new Carrinho();
-			if(isset($_SESSION['carrinho'])){
-			$dados['carrinho_subtotal'] = $c->getSubTotal();
+			if(isset($_SESSION['carrinho_subtotal']) && !empty($_SESSION['carrinho_subtotal'])){
+			$dados['carrinho_subtotal'] = $_SESSION['carrinho_subtotal'];
 			}else{
-				$dados['carrinho_subtotal'] = 0;
+			$dados['carrinho_subtotal'] = 0;	
 			}
 			?>
 			<div class="areaCarinho-Cadastro">
@@ -70,7 +69,7 @@
 				<li><a href="<?php echo BASE_URL; ?>produtos/categoria/9">ANÉIS</a></li>
 				<li><a href="<?php echo BASE_URL; ?>produtos/categoria/10">EMBALAGENS PARA PRESENTE</a></li>
 				<li><a href="<?php echo BASE_URL; ?>produtos/categoria/11">LIMPEZA E CUIDADO</a></li>
-				<li><a href="<?php echo BASE_URL; ?>home/categoria">CONTATO</a></li>
+				<li><a href="<?php echo BASE_URL; ?>home/contato">CONTATO</a></li>
 				<li><a href="<?php echo BASE_URL; ?>produtos">TODOS OS PRODUTOS</a></li>
 				<li><a href="<?php echo BASE_URL; ?>home/quemSomos">QUEM SOMOS</a></li>
 			</ul>
@@ -125,17 +124,17 @@
 				<ul>
 				<li><a href="<?php echo BASE_URL; ?>home">INÍCIO</a></li>
 				<li><a href="<?php echo BASE_URL; ?>home/feedbacks">FEEDBACKS DE CLIENTES</a></li>
-				<li><a href="<?php echo BASE_URL; ?>produtos/corrente">CORRENTES</a></li>
-				<li><a href="<?php echo BASE_URL; ?>produtos/corrente-pingente">CONJUNTO CORRENTE + PINGENTE</a></li>
-				<li><a href="<?php echo BASE_URL; ?>produtos/pulseiras">PULSEIRAS</a></li>
-				<li><a href="<?php echo BASE_URL; ?>produtos/pingentes">PINGENTES</a></li>
-				<li><a href="<?php echo BASE_URL; ?>produtos/pingente-letras">PINGENTE LETRAS</a></li>
-				<li><a href="<?php echo BASE_URL; ?>produtos/escapularios">ESCAPULÁRIOS</a></li>
-				<li><a href="<?php echo BASE_URL; ?>produtos/tercos">TERÇOS</a></li>
-				<li><a href="<?php echo BASE_URL; ?>produtos/brincos">BRINCOS</a></li>
-				<li><a href="<?php echo BASE_URL; ?>produtos/aneis">ANÉIS</a></li>
-				<li><a href="<?php echo BASE_URL; ?>produtos/embalagens-presente">EMBALAGENS PARA PRESENTE</a></li>
-				<li><a href="<?php echo BASE_URL; ?>produtos/limpeza">LIMPEZA E CUIDADO</a></li>
+				<li><a href="<?php echo BASE_URL; ?>produtos/categoria/1">CORRENTES</a></li>
+				<li><a href="<?php echo BASE_URL; ?>produtos/categoria/2">CONJUNTO CORRENTE + PINGENTE</a></li>
+				<li><a href="<?php echo BASE_URL; ?>produtos/categoria/3">PULSEIRAS</a></li>
+				<li><a href="<?php echo BASE_URL; ?>produtos/categoria/4">PINGENTES</a></li>
+				<li><a href="<?php echo BASE_URL; ?>produtos/categoria/5">PINGENTE LETRAS</a></li>
+				<li><a href="<?php echo BASE_URL; ?>produtos/categoria/6">ESCAPULÁRIOS</a></li>
+				<li><a href="<?php echo BASE_URL; ?>produtos/categoria/7">TERÇOS</a></li>
+				<li><a href="<?php echo BASE_URL; ?>produtos/categoria/8">BRINCOS</a></li>
+				<li><a href="<?php echo BASE_URL; ?>produtos/categoria/9">ANÉIS</a></li>
+				<li><a href="<?php echo BASE_URL; ?>produtos/categoria/10">EMBALAGENS PARA PRESENTE</a></li>
+				<li><a href="<?php echo BASE_URL; ?>produtos/categoria/11">LIMPEZA E CUIDADO</a></li>
 				<li><a href="<?php echo BASE_URL; ?>home/contato">CONTATO</a></li>
 				<li><a href="<?php echo BASE_URL; ?>produtos">TODOS OS PRODUTOS</a></li>
 				<li><a href="<?php echo BASE_URL; ?>home/quemSomos">QUEM SOMOS</a></li>
@@ -148,13 +147,13 @@
 		<script type="text/javascript" src="<?php echo BASE_URL; ?>assets/js/jquery.mask.js"></script>
 		<script type="text/javascript" src="<?php echo BASE_URL; ?>assets/js/script.js">
 		</script>
-		<!--<script type="text/javascript">
+<script type="text/javascript">
 			(function(){ var widget_id = 'ou0FVPUSXt';var d=document;var w=window;function l(){
   var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
   s.src = '//code.jivosite.com/script/widget/'+widget_id
     ; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}
   if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}
   else{w.addEventListener('load',l,false);}}})();
-		</script> -->
+		</script>
 	</body>
 </html>

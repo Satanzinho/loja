@@ -26,6 +26,7 @@ class carrinhoController extends Controller {
         $this->loadTemplate('carrinho', $data);
     }
     public function adicionar(){
+        $c = new Carrinho();
     	if(isset($_POST['quantidade']) && !empty($_POST['quantidade'])){
     		$quantidade = intval($_POST['quantidade']);
     		$idProduto = $_POST['id'];
@@ -34,8 +35,10 @@ class carrinhoController extends Controller {
     		}
     		if(isset($_SESSION['carrinho'][$idProduto])){
     			$_SESSION['carrinho'][$idProduto] += $quantidade;
+                $_SESSION['carrinho_subtotal'] = $c->getSubTotal();
     		}else{
     			$_SESSION['carrinho'][$idProduto] = $quantidade;
+                $_SESSION['carrinho_subtotal'] = $c->getSubTotal();
     		}
     	}
     	header("Location: ".BASE_URL."carrinho");
@@ -44,6 +47,7 @@ class carrinhoController extends Controller {
     public function delete($id){
         if(!empty($id)){
             unset($_SESSION['carrinho'][$id]);
+            unset($_SESSION['carrinho_subtotal']);
         }
         header("Location: ".BASE_URL."carrinho");
     }

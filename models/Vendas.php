@@ -1,5 +1,5 @@
 <?php
-class Vendas extends model{
+class Vendas extends Model{
 	public function addVendas($uid, $total, $tipo){
 		$sql = "INSERT INTO compras SET id_usuario = :uid, total_pagamento = :total, tipo_pagamento = :tipo, status_pagamento = 1";
 		$sql = $this->db->prepare($sql);

@@ -4,9 +4,11 @@ class produtosController extends Controller{
 		parent::__construct();
 	}
 
-    public function index($categoria) {
+    public function index() {
         $data = array();
-
+         $p = new Produtos();
+        $produtos = $p->getProdutos();
+        $data['produtos'] = $produtos;
         $this->loadTemplate('produtos', $data);
     }
     public function categoria($id){

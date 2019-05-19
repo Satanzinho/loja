@@ -12,11 +12,11 @@ if(ENVIRONMENT == 'development') {
 	$config['dbuser'] = 'root';
 	$config['dbpass'] = '';
 } else {
-	define("BASE_URL", "http://mmjoias18k.com.br/");
-	$config['dbname'] = 'paz6jetg6jtg_loja';
+	define("BASE_URL", "https://andreasantosestetica.com.br/");
+	$config['dbname'] = 'andrasan_loja';
 	$config['host'] = 'localhost';
-	$config['dbuser'] = 'paz6jetg6jtg_use';
-	$config['dbpass'] = '';
+	$config['dbuser'] = 'andrasan_miguel';
+	$config['dbpass'] = 'senha';
 }
 $config['cep_origin'] = '72831060';
 

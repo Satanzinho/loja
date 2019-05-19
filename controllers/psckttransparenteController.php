@@ -4,6 +4,8 @@ class psckttransparenteController extends Controller{
 		parent::__construct();
 	}
 	public function index(){
+    error_reporting(E_ALL);
+    ini_set("display_errors", "On");
 	 $data = array();
         $p = new Produtos();
         $c = new Carrinho();
@@ -14,8 +16,8 @@ class psckttransparenteController extends Controller{
         }
         if(!empty($_SESSION['calcular'])){
                 $calcular = $_SESSION['calcular'];
-                if(isset($calcular['preco'])){
-                        $frete = floatval(str_replace(',', '.', $calcular['preco']));
+                if(isset($calcular['valor'])){
+                        $frete = floatval(str_replace(',', '.', $calcular['valor']));
                 }else{
                         $frete = 0;
                 }

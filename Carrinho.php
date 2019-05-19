@@ -1,5 +1,5 @@
 <?php  
-class Carrinho extends Model{
+class Carrinho extends model{
 	public function getProdutos(){
 		$array = array();
 		$produtos = new Produtos();
@@ -26,16 +26,8 @@ class Carrinho extends Model{
 	public function getSubTotal(){
 		$sub = $this->getProdutos();
 		$subtotal = 0;
-		if(!empty($_SESSION['calcular'])){
-                $calcular = $_SESSION['calcular'];
-                if(isset($calcular['valor'])){
-                        $frete = floatval(str_replace(',', '.', $calcular['valor']));
-                }else{
-                        $frete = 0;
-                }
-          }
 		foreach($sub as $item){
-			$subtotal += (floatval($item['preco']) * intval($item['qt']) + floatval($frete));
+			$subtotal += (floatval($item['preco']) * intval($item['qt']));
 		}
 		return $subtotal;
 	}
